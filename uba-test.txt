@@ -1,1 +1,1 @@
-Este es el primer archivo de pruebas.
+Es el primer archivo de pruebas.
